@@ -228,7 +228,5 @@ class Shansita:
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:00d4ff,100:0a0a0a&height=100&section=footer" />
   <p>
     If it can be automated, it should be. If it can be secured, it must be.
-    <br />
-    If you find my work interesting, drop a star on a repo - it means the world.
   </p>
 </div>
