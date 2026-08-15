@@ -6,7 +6,7 @@
 
 <div align="center">
   <p>
-    <strong>B.Tech CSE (Cybersecurity &amp; IoT)</strong> · CGPA 9.67 · Sri Ramachandra Institute, Chennai
+    <strong>B.Tech CSE (Cybersecurity &amp; IoT)</strong>  · Sri Ramachandra Institute, Chennai
     <br />
     Building where Intelligence meets Security meets the Physical World
   </p>
